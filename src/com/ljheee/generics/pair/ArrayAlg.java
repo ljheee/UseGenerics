@@ -21,7 +21,8 @@ public class ArrayAlg {
 		T min = a[0];
 		T max = a[0];
 		for (int i = 1; i < a.length; i++) {
-			if (min.compareTo(a[i]) > 0) {
+			
+			if (min.compareTo(a[i]) > 0) {//¼´min>a[i]
 				min = a[i];
 			}
 			if (max.compareTo(a[i]) < 0) {
