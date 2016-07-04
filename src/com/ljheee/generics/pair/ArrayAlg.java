@@ -1,5 +1,10 @@
 package com.ljheee.generics.pair;
 
+/**
+ * 算法类--提供泛型  数组排序方法。
+ * @author ljheee
+ *
+ */
 public class ArrayAlg {
 
 	/**
